@@ -5,7 +5,7 @@
 <h2 align="center">stackup-Ayalaan-minting-dapp</h1>
 
 <div align="center">
-    🌐 Website: https://stackup-Ayalaan.netlify.app/
+    🌐 Website: https://ayalaan-nft.web.app/
 </div>
 
-> ⚠️ The code for this DApp is provided for educational purposes only. It is not intended for production use without thorough testing and evaluation. Hence, it is important to conduct your own research and testing to ensure its suitability for your specific needs.
+>
