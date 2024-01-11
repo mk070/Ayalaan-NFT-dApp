@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5e7F51c593ac34263a5bc9Eae04A4E60ac37D1e1",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x5e7F51c593ac34263a5bc9Eae04A4E60ac37D1e1",
+  "NETWORK": {
+    "NAME": "Polygon Mumbai",
+    "SYMBOL": "MATIC",
+    "ID": 80001
+  },
+  "NFT_NAME": "Ayalaan",
+  "SYMBOL": "PA",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea Testnets",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collections",
+  "SHOW_BACKGROUND": false
+}
